@@ -20,6 +20,8 @@ public class Main {
          */
 //        TODO: Fix this (Наприклад, щось, що обов'язково треба буде колись виправити)
 
+//        ADD THIRD BRANCH
+        System.out.println("Add some code");
     }
 
     public static int sum(int first, int second) {
